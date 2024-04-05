@@ -2,7 +2,7 @@
 Una prueba
 
 ## Subtitulo
-linea de texto normal
+linea de texto 
 
 Configuracion
 NA
